@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Bee Game</string>
+    <string name="play_game">Play Game</string>
+    <string name="queen">Queen</string>
+    <string name="worker">Worker</string>
+    <string name="drone">Drone</string>
+</resources>
